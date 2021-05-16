@@ -11,7 +11,6 @@ I´m in constant learning and watching for new tricks/tips, most of the time I a
 * 🔭  I’m currently working on tiny projects & my portfolio 😌
 * 🌱  I’m currently learning Xcode, Three.js and Blender.
 * 💬  You can ask me anything!
-* 📫  How to reach me 
 * 💫  Fun facts: I  ♥️  movies/series  🎬 🍿  , pets  🐶 🐱 , traveling ✈️ 🏖  , I´m a biker 🏍  🖤  !!, and a big fan of LOTR, H⚡️P &
 <img src="https://emojis.slackmojis.com/emojis/images/1482947228/1532/lightsaber.png?1482947228" width="24px" title="Star Wars"/> <img src="https://emojis.slackmojis.com/emojis/images/1538730887/4767/jediorder.png?1538730887" width="24px" title="Jedi Order"/>
 
@@ -40,4 +39,4 @@ I´m in constant learning and watching for new tricks/tips, most of the time I a
 <img src="https://emojis.slackmojis.com/emojis/images/1536564516/4640/laravel.png?1536564516" width="24px" title="Laravel"/>
 <img src="https://emojis.slackmojis.com/emojis/images/1620759626/38068/angular.png?1620759626" width="24px" title="Angular"/></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arisbi&layout=compact)](https://github.com/arisbi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arisbi&theme=tokyonight&layout=compact)](https://github.com/arisbi/github-readme-stats)
